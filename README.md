@@ -7,7 +7,7 @@
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
 
 ### Ticking Tunes
-- [UnknownBlankk] - I do be doing everything tho
+- UnknownBlankk - I do be doing everything tho
 
 ### Kade Engine
 - [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
